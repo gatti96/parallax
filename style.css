@@ -31,7 +31,7 @@ body, html { /* para que a imagem ocupe toda a tela */
     text-align: center; /* usado para centralizar, se não for centralizar não tem necessidade de usar */
 }
 
-.conteudo-titulo span { /* os estilos dessa classe são usado aqui caso deseje centralizar o conteudo, do contrário, esses mesmo estilos poderiam estar na classe de cima (.conteudo-titulo) */
+.conteudo-titulo p { /* os estilos dessa classe são usado aqui caso deseje centralizar o conteudo, do contrário, esses mesmo estilos poderiam estar na classe de cima (.conteudo-titulo) */
     color: black;
     background-color: white;
     padding: 18px;
